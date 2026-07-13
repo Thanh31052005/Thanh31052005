@@ -25,12 +25,12 @@ class AboutMe {
 <br/>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonNe&theme=tokyonight" alt="GitHub Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thanh31052005&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 <br/>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SonNe&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonNe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thanh31052005&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanh31052005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
