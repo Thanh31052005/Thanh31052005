@@ -1,9 +1,10 @@
-#
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello+there%2C++I'm+just+a+Fresher)](https://git.io/typing-svg)
-
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+  
+# 👋 Welcome to my GitHub Profile!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I'm+SonNe;Software+Developer;Always+learning+new+tech)](https://git.io/typing-svg)
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400">
 </div>
 
 ```ts
@@ -16,29 +17,25 @@ class AboutMe {
     readonly quote: string = "Code - Money - Family";
     
     public introduce(): string {
-        return `👋 Hi, I'm ${this.nickname}!`;
+        return `🚀 Ready to build something awesome!`;
     }
 }
 ```
 
+<br/>
+
 <div align="center">
-    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1259350604526911509?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Toi%20thuong%20em%20lam.)](https://discord.com/users/1259350604526911509)
-
+    <img src="https://github-readme-stats.vercel.app/api?username=SonNe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonNe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
 </div>
-
 
 <br/>
 
-<div align=center>
-    <img src="https://github-trophies.vercel.app/?username=SonNe&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="TROPHY" />
-</div>
-
-<h1 align="center">Language and tools</h1>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,cs,dotnet,python,pytorch,opencv,html,css,js,react,vite,nextjs,postman,git,github,docker,redis,rabbitmq&theme=dark" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,cs,dotnet,python,pytorch,opencv,html,css,js,react,vite,nextjs,postman,git,github,docker,redis,rabbitmq&theme=dark&perline=7" alt="Languages and Tools" />
 </p>
 
-[![SonNe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SonNe&bg_color=fdf2f8&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
-> Try hard for my family
+> *Try hard for my family*
