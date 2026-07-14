@@ -14,7 +14,7 @@ class AboutMe {
     readonly isMale: boolean = true;
     readonly coreLanguages: string[] = ["Java", "C#", "Python", "JavaScript"];
     readonly technologies: string[] = ["Spring Boot", "ASP.NET MVC", "React", "PyTorch", "Docker"];
-    readonly quote: string = "Code - Money - Family";
+    readonly quote: string = "Family - Code - Money";
     
     public introduce(): string {
         return `🚀 Ready to build something awesome!`;
