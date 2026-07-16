@@ -25,11 +25,11 @@ class AboutMe {
 <br/>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thanh31052005&theme=tokyonight" alt="GitHub Profile Details" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thanh31052005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thanh31052005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
 </div>
 <br/>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thanh31052005&theme=tokyonight" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanh31052005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
