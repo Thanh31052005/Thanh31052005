@@ -9,10 +9,10 @@
   <a href="https://github.com/Thanh31052005">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/th%C3%A0nh-ph%E1%BA%A1m-duy-2b8759341/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#">
+  <a href="phamduythanh31052005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -26,8 +26,6 @@ class Developer {
     readonly name: string = "SonNe";
     readonly role: string = "Software Engineer";
     readonly age: number = 21;
-    readonly languages: string[] = ["Java", "C#", "Python", "JavaScript"];
-    readonly technologies: string[] = ["Spring Boot", "ASP.NET MVC", "React", "PyTorch", "Docker"];
     readonly quote: string = "Family - Code - Money";
     
     public introduce(): void {
