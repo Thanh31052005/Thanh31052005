@@ -58,7 +58,7 @@ class Developer {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Thanh31052005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Thanh31052005&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
 <br>
