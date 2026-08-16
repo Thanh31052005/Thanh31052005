@@ -1,45 +1,74 @@
 <div align="center">
-  
-# 👋 Welcome to my GitHub Profile!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I'm+SonNe;Software+Developer;Always+learning+new+tech)](https://git.io/typing-svg)
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20Space&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
+<h1 align="center">Hi there, I'm SonNe 👋</h1>
+<h3 align="center">A passionate Software Developer from Vietnam 🇻🇳</h3>
+
+<p align="center">
+  <a href="https://github.com/Thanh31052005">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br>
+
+### 👨‍💻 About Me
+
 ```ts
-class AboutMe {
-    readonly nickname: string = "SonNe";
+class Developer {
+    readonly name: string = "SonNe";
+    readonly role: string = "Software Engineer";
     readonly age: number = 21;
-    readonly isMale: boolean = true;
-    readonly coreLanguages: string[] = ["Java", "C#", "Python", "JavaScript"];
+    readonly languages: string[] = ["Java", "C#", "Python", "JavaScript"];
     readonly technologies: string[] = ["Spring Boot", "ASP.NET MVC", "React", "PyTorch", "Docker"];
     readonly quote: string = "Family - Code - Money";
     
-    public introduce(): string {
-        return `🚀 Ready to build something awesome!`;
+    public introduce(): void {
+        console.log("🚀 Building the future with every commit.");
     }
 }
 ```
 
-<br/>
+<br>
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thanh31052005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thanh31052005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+  <table>
+    <tr>
+      <td align="center"><b>🎨 Frontend</b></td>
+      <td align="center"><b>⚙️ Backend & DB</b></td>
+      <td align="center"><b>🚀 Tools & DevOps</b></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite&perline=3" /></td>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,hibernate,mysql&perline=4" /></td>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=docker,redis,rabbitmq,git,github,postman&perline=3" /></td>
+    </tr>
+  </table>
 </div>
-<br/>
+
+<br>
+
+### 📊 GitHub Stats
+
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanh31052005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanh31052005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br/>
+<br>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,cs,dotnet,python,pytorch,opencv,html,css,js,react,vite,nextjs,postman,git,github,docker,redis,rabbitmq&theme=dark&perline=7" alt="Languages and Tools" />
-</p>
+<div align="center">
+  <i>"Try hard for my family"</i>
+</div>
 
-<br/>
-
-> *Try hard for my family*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
