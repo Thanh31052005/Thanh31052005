@@ -59,6 +59,7 @@ class Developer {
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thanh31052005&theme=tokyonight" alt="GitHub Profile Summary" />
+<img src="https://streak-stats.demolab.com/?user=Thanh31052005&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
 <br>
